@@ -1,4 +1,4 @@
-# Pierian_Data_Python_Bootcamp_from_Zero_to_Hero
+# Udemy_Data_Python_Bootcamp_
 
 This repository showcases my own solutions, notes, and key takeaways based on the Pierian_Data_Python_Bootcamp_from_Zero_to_Hero course provided by Pierian Data at Udemy
 
