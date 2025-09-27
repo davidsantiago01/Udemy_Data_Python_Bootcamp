@@ -76,4 +76,31 @@ for item in my_list:
 (7, 8)
 --
 
+for a,b in my_list:
+    print (a)  
+    print (b)
+1
+2
+3
+4
+5
+6
+7
+8
+--
 
+d = {'k1':1, 'k2':2, 'k3':3}
+for item in d:
+    print (item)
+k1
+k2
+k3
+--
+
+d = {'k1':1, 'k2':2, 'k3':3}
+for item in d.items():
+    print (item)
+('k1', 1)
+('k2', 2)
+('k3', 3)
+--
