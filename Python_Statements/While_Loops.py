@@ -2,7 +2,7 @@ while some_boolean_condition_
   do_something
 else:
   do_something_different
---
+#---
 x = 0
 while x < 5:
   print (f'the current value of x is {x}')
@@ -16,7 +16,7 @@ the current value of x is 2
 the current value of x is 3
 the current value of x is 4
 X IS NOT LESS THAN 5
---
+#---
 mystring = "Sammy"
 for letter in mystring:
     if letter == "a":
@@ -26,7 +26,7 @@ S
 m
 m
 y
---
+#---
 
 mystring = "Sammy"
 for letter in mystring:
@@ -34,7 +34,7 @@ for letter in mystring:
         break
     print (letter)
 S
---
+#---
 x = 0
 while x < 5:
   if x == 2:
@@ -43,4 +43,6 @@ while x < 5:
   x += 1
 the current value of x is 0
 the current value of x is 1
+
+#---
 
