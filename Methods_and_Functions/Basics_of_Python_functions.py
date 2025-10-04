@@ -14,4 +14,15 @@ def say_hello(name):
 say_hello("Dave")
 hello Dave
 #----
+def print_result(a,b):
+    print (a + b)
+print_result(10,20)   
+30
+#----
+def return_result(a,b):
+    return a+b
+return_result(10,20)
+result = return_result(10,20)
+result
 
+#----
